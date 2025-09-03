@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Guilherme  
 
-<!--
-**gui24214/gui24214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia Informática  
+💻 Interesse em desenvolvimento em C, Flutter, C# e Qt  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em destaque
+
+- **[Gestão de Eventos em C](https://github.com/gui24214/Aplicacao-Gestao_Eventos_C)**  
+  Aplicação em C para gestão de eventos e inscritos.  
+  Dados mantidos apenas durante a execução.  
+
+- **[Gestão de Eventos em Flutter + API C# + SQL Server](https://github.com/gui24214/Aplicacao-Gestao_Eventos_Flutter)**  
+  Trabalho de grupo académico:  
+  - Guilherme → App em Flutter  
+  - Daniela → Base de Dados (SQL Server)  
+  - Bárbara → API em C#  
+  - Renata → Design do cartaz  
+
+- **[Jogo das Diferenças (Qt Creator)](https://github.com/gui24214/Jogo-das-diferencas-QtCreator)**  
+  Jogo interativo com música, tempo e sistema de estrelas.  
+  Progressão de dificuldade e loja de poderes (vidas extra e congelar tempo).  
+
+---
+
+## 📫 Contactos
+- 📧 Email: guilhermepeixoto713@gmail.com
+-  Telefone: 969454152
+   
