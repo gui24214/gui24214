@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Guilherme  
 
 🎓 Estudante de Engenharia Informática  
-💻 Interesse em desenvolvimento em C, Flutter, C# e Qt  
+💻 Estudante de programação. C, C#, SQL, Flutter e Qt. Aprofundando Kotlin/HTML. Projetos: apps, APIs e jogos.
 
 ---
 
