@@ -12,11 +12,7 @@
   Dados mantidos apenas durante a execução.  
 
 - **[Gestão de Eventos em Flutter + API C# + SQL Server](https://github.com/gui24214/Aplicacao-Gestao_Eventos_Flutter)**  
-  Trabalho de grupo académico:  
-  - Guilherme → App em Flutter  
-  - Daniela → Base de Dados (SQL Server)  
-  - Bárbara → API em C#  
-  - Renata → Design do cartaz  
+  Trabalho de grupo académico em flutter usando Flutter para a aplicação, C# para a API e Sql server para a base de dados  
 
 - **[Jogo das Diferenças (Qt Creator)](https://github.com/gui24214/Jogo-das-diferencas-QtCreator)**  
   Jogo interativo com música, tempo e sistema de estrelas.  
