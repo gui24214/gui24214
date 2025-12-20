@@ -6,22 +6,28 @@ Chamo-me Guilherme Peixoto, tenho 20 anos e sou natural de Portugal. Concluí o 
 
 ## 📊 Estatísticas
 
-<p float="left">
+<table>
+<tr>
+<td style="padding-right:20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=gui24214&show_icons=true&count_private=true&theme=github_dark&hide_title=false&hide_border=false&include_all_commits=true&line_height=25" width="380" />
+</td>
+<td style="padding-left:20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui24214&layout=compact&count_private=true&theme=github_dark&hide_border=false" width="380" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠 Tecnologias
 
 <p float="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" height="30" title="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30" title="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" height="30" title="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="30" height="30" title="Qt" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" title="C" style="margin-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30" title="C#" style="margin-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" height="30" title="Kotlin" style="margin-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30" title="Flutter" style="margin-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" height="30" title="SQL" style="margin-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="30" height="30" title="Qt" style="margin-right:15px;" />
 </p>
 
 ---
