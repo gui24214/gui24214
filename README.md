@@ -22,7 +22,7 @@ Chamo-me Guilherme Peixoto, tenho 20 anos e sou natural de Portugal. Concluí o 
 ## 🛠 Tecnologias
 
 <p float="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" title="C" style="margin-right:45px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" title="C" style="margin-right 135px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30" title="C#" style="margin-right:15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" height="30" title="Kotlin" style="margin-right:15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30" title="Flutter" style="margin-right:15px;" />
