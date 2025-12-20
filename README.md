@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Guilherme Peixoto
+# Olá, eu sou o Guilherme Peixoto
 
 Chamo-me Guilherme Peixoto, tenho 20 anos e sou natural de Portugal. Concluí o ensino secundário com o curso técnico em informática e atualmente estou a cursar **Aplicações Móveis**. Sou apaixonado por tecnologia e partilho os meus conhecimentos através do meu GitHub, onde mostro projetos de programação, apps e desenvolvimento de software.
 
@@ -6,19 +6,31 @@ Chamo-me Guilherme Peixoto, tenho 20 anos e sou natural de Portugal. Concluí o 
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gui24214&show_icons=true&count_private=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gui24214&layout=compact&count_private=true&theme=github_dark)
+<table>
+<tr>
+<td>
+
+![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gui24214&show_icons=true&count_private=true&theme=github_dark&hide_title=false&hide_border=true&include_all_commits=true&line_height=25)
+
+</td>
+<td>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gui24214&layout=compact&count_private=true&theme=github_dark&hide_border=true)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠 Tecnologias
 
-![C](https://img.shields.io/badge/C-C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C)
-![C#](https://img.shields.io/badge/C%23-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=239120)
-![Kotlin](https://img.shields.io/badge/Kotlin-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)
-![Flutter](https://img.shields.io/badge/Flutter-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B)
-![SQL](https://img.shields.io/badge/SQL-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=003B57)
-![Qt](https://img.shields.io/badge/Qt-Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white&labelColor=41CD52)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" title="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" title="Kotlin"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" title="Flutter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" title="SQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" height="40" title="Qt"/>
 
 ---
 
@@ -39,4 +51,5 @@ Chamo-me Guilherme Peixoto, tenho 20 anos e sou natural de Portugal. Concluí o 
 
 - 📧 Email: guilhermepeixoto713@gmail.com  
 - 📞 Telefone: 969454152  
-- Instagram: [gui_.06](https://www.instagram.com/gui_.06/)
+- Instagram: [gui_.06](https://www.instagram.com/gui_.06/)  
+
