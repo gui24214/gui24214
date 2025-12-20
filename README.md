@@ -4,21 +4,18 @@ Chamo-me Guilherme Peixoto, tenho 19 anos e sou natural de Portugal. Concluí o 
 
 ---
 
-## 📊 Estatísticas
+## 🚀 Projetos em destaque
 
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=gui24214&show_icons=true&count_private=true&theme=github_dark&hide_title=false&hide_border=false&include_all_commits=true&line_height=25" width="380" />
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui24214&layout=compact&count_private=true&theme=github_dark&hide_border=false" width="380" />
-</td>
-</tr>
-</table>
+- **[Gestão de Eventos em C](https://github.com/gui24214/Aplicacao-Gestao_Eventos_C)**  
+  Aplicação em C para gestão de eventos e inscritos. Dados mantidos apenas durante a execução.
+
+- **[Gestão de Eventos em Flutter + API C# + SQL Server](https://github.com/gui24214/Aplicacao-Gestao_Eventos_Flutter)**  
+  Trabalho de grupo académico em Flutter para a aplicação, C# para a API e SQL Server para a base de dados.
+
+- **[Jogo das Diferenças (Qt Creator)](https://github.com/gui24214/Jogo-das-diferencas-QtCreator)**  
+  Jogo interativo com música, tempo e sistema de estrelas. Progressão de dificuldade e loja de poderes (vidas extra e congelar tempo).
 
 ---
-
 ## 🛠 Tecnologias
 
 <table>
@@ -31,19 +28,6 @@ Chamo-me Guilherme Peixoto, tenho 19 anos e sou natural de Portugal. Concluí o 
 <td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" height="40" title="Qt"/></td>
 </tr>
 </table>
-
----
-
-## 🚀 Projetos em destaque
-
-- **[Gestão de Eventos em C](https://github.com/gui24214/Aplicacao-Gestao_Eventos_C)**  
-  Aplicação em C para gestão de eventos e inscritos. Dados mantidos apenas durante a execução.
-
-- **[Gestão de Eventos em Flutter + API C# + SQL Server](https://github.com/gui24214/Aplicacao-Gestao_Eventos_Flutter)**  
-  Trabalho de grupo académico em Flutter para a aplicação, C# para a API e SQL Server para a base de dados.
-
-- **[Jogo das Diferenças (Qt Creator)](https://github.com/gui24214/Jogo-das-diferencas-QtCreator)**  
-  Jogo interativo com música, tempo e sistema de estrelas. Progressão de dificuldade e loja de poderes (vidas extra e congelar tempo).
 
 ---
 
