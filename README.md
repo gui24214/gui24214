@@ -6,31 +6,23 @@ Chamo-me Guilherme Peixoto, tenho 20 anos e sou natural de Portugal. Concluí o 
 
 ## 📊 Estatísticas
 
-<table>
-<tr>
-<td>
-
-![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gui24214&show_icons=true&count_private=true&theme=github_dark&hide_title=false&hide_border=true&include_all_commits=true&line_height=25)
-
-</td>
-<td>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gui24214&layout=compact&count_private=true&theme=github_dark&hide_border=true)
-
-</td>
-</tr>
-</table>
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gui24214&show_icons=true&count_private=true&theme=github_dark&hide_title=false&hide_border=false&include_all_commits=true&line_height=25" width="380" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui24214&layout=compact&count_private=true&theme=github_dark&hide_border=false" width="380" />
+</p>
 
 ---
 
 ## 🛠 Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" title="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C#"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" title="Kotlin"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" title="Flutter"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" title="SQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" height="40" title="Qt"/>
+<p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" title="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" title="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" title="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="50" height="50" title="Qt" />
+</p>
 
 ---
 
@@ -52,4 +44,3 @@ Chamo-me Guilherme Peixoto, tenho 20 anos e sou natural de Portugal. Concluí o 
 - 📧 Email: guilhermepeixoto713@gmail.com  
 - 📞 Telefone: 969454152  
 - Instagram: [gui_.06](https://www.instagram.com/gui_.06/)  
-
