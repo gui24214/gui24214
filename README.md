@@ -16,7 +16,7 @@ Chamo-me Guilherme Peixoto, tenho 19 anos e sou natural de Portugal. Concluí o 
   Jogo interativo com música, tempo e sistema de estrelas. Progressão de dificuldade e loja de poderes (vidas extra e congelar tempo).
 
 ---
-## 🛠 Tecnologias
+## Tecnologias
 
 <table>
 <tr>
@@ -31,8 +31,8 @@ Chamo-me Guilherme Peixoto, tenho 19 anos e sou natural de Portugal. Concluí o 
 
 ---
 
-## 📫 Contactos
+## Contactos
 
-- 📧 Email: guilhermepeixoto713@gmail.com  
-- 📞 Telefone: 969454152  
+- Email: guilhermepeixoto713@gmail.com  
+- Telefone: 969454152  
 - Instagram: [gui_.06](https://www.instagram.com/gui_.06/)  
