@@ -4,7 +4,7 @@ Chamo-me Guilherme Peixoto, tenho 19 anos e sou natural de Portugal. Concluí o 
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 - **[Gestão de Eventos em C](https://github.com/gui24214/Aplicacao-Gestao_Eventos_C)**  
   Aplicação em C para gestão de eventos e inscritos. Dados mantidos apenas durante a execução.
